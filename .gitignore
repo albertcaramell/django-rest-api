@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+
+# PyCharm
+.idea/*
+
+
+# Vim
+*~
+*.swp
+*.swo
+
+
+# Database
+db.sqlite3
+
+
+# Environments
+.venv
+venv/
